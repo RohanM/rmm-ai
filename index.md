@@ -1,3 +1,6 @@
+---
+title: rmm.ai
+---
 ## COVID Futures
 [COVID Futures](https://covid.rmm.ai)
 
