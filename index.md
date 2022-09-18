@@ -1,6 +1,16 @@
 ---
 title: rmm.ai
 ---
+## PPO Sandbox
+[PPO Sandbox](https://github.com/RohanM/ppo-sandbox) is a lightly optimised implementation of PPO using Pytorch and OpenAI Gym.
+
+- Asynchronous vector environments
+- GAE rewards and advantages
+- Minibatch training
+- Comprehensive stats logged and progress videos recorded
+
+[source](https://github.com/RohanM/ppo-sandbox)
+
 ## COVID Futures
 [COVID Futures](https://covid.rmm.ai) provides forecasts of COVID case numbers in Australian states.
 
