@@ -40,3 +40,9 @@ transformer language model, written with PyTorch and trained on Jane Austen.
 - Image classification with resnet34 via FastAI library
 
 [source](https://github.com/RohanM/fungi-id)
+
+----
+
+## Research Background
+
+- [Towards a Total Synthesis of Strychnine](/assets/Chemistry Hons - Rohan Mitchell.pdf) - organic chemistry honours thesis (H1, 2010)
