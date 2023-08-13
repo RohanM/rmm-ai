@@ -1,7 +1,9 @@
 ---
 title: rmm.ai
 ---
+
 ## Simple Transformer
+
 [Simple Transformer](https://github.com/rohanm/simple-transformer) is a from-scratch implementation of a decoder-only
 transformer language model, written with PyTorch and trained on Jane Austen.
 
@@ -11,8 +13,8 @@ transformer language model, written with PyTorch and trained on Jane Austen.
 
 [source](https://github.com/RohanM/simple-transformer)
 
-
 ## PPO Sandbox
+
 [PPO Sandbox](https://github.com/RohanM/ppo-sandbox) is a lightly optimised implementation of PPO using Pytorch and OpenAI Gym.
 
 - Asynchronous vector environments
@@ -21,7 +23,6 @@ transformer language model, written with PyTorch and trained on Jane Austen.
 - Comprehensive stats logged and progress videos recorded
 
 [source](https://github.com/RohanM/ppo-sandbox)
-
 
 ## COVID Futures
 [COVID Futures](https://covid.rmm.ai) provides forecasts of COVID case numbers in Australian states.
@@ -32,7 +33,6 @@ transformer language model, written with PyTorch and trained on Jane Austen.
 
 [source](https://github.com/RohanM/covid-futures)
 
-
 ## Australian Fungi ID
 [Fungi ID](https://fungi.rmm.ai) predicts species identification for Australian fungi.
 
@@ -41,7 +41,7 @@ transformer language model, written with PyTorch and trained on Jane Austen.
 
 [source](https://github.com/RohanM/fungi-id)
 
-----
+---
 
 ## Research Background
 
