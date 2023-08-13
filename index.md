@@ -25,7 +25,8 @@ transformer language model, written with PyTorch and trained on Jane Austen.
 [source](https://github.com/RohanM/ppo-sandbox)
 
 ## COVID Futures
-[COVID Futures](https://covid.rmm.ai) provides forecasts of COVID case numbers in Australian states.
+
+COVID Futures provides forecasts of COVID case numbers in Australian states.
 
 - Simple custom-built ML data pipeline
 - ResNet architecture (extended from [this paper](https://arxiv.org/abs/2103.12057)) implemented with PyTorch
@@ -34,7 +35,8 @@ transformer language model, written with PyTorch and trained on Jane Austen.
 [source](https://github.com/RohanM/covid-futures)
 
 ## Australian Fungi ID
-[Fungi ID](https://fungi.rmm.ai) predicts species identification for Australian fungi.
+
+Fungi ID predicts species identification for Australian fungi.
 
 - Dataset assembled from [iNaturalist](https://www.inaturalist.org/pages/developers)
 - Image classification with resnet34 via FastAI library
